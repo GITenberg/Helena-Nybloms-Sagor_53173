@@ -1,0 +1,25 @@
+_repo: Helena-Nybloms-Sagor_53173
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nyblom, Helena
+    alias: Nyblom, Helena Augusta (Roed)
+    birthdate: 1843
+    deathdate: 1926
+    gutenberg_agent_id: '37089'
+    url: http://www.gutenberg.org/2009/agents/37089
+description: ''
+gutenberg_issued: '2016-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53173'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fairy tales'
+- GITenberg
+title: Helena Nybloms Sagor
+url: http://www.gutenberg.org/ebooks/53173
